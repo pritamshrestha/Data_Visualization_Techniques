@@ -12,6 +12,12 @@ Data visualization is the pictorial representation of the data. It helps us to u
 9) Heatmap
 10) Contour map
 11) Box plot
+12) Bubble chart
+13) Density plot
+14) Tree map
+15) Area chart
+16) Stacked area chart
+17) 
 
 # Used Methods:
 1) Python Programming language.
