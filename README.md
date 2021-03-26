@@ -25,14 +25,8 @@ Data visualization is the pictorial representation of the data. It helps us to u
 2) R programming language
 3) Tabelau
 
-# Libraries
-a) Python:
-  1) Pandas
-  2) Numpy
-  3) Matplotlib
-  4) Seaborn
-b) R:
-  1) GGplot
-  2) plotly
-  
-
+# Python Libraries:
+1) Pandas
+2) Numpy
+3) Matplotlib
+4) Seaborn
