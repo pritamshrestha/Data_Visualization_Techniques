@@ -17,10 +17,22 @@ Data visualization is the pictorial representation of the data. It helps us to u
 14) Tree map
 15) Area chart
 16) Stacked area chart
-17) 
+17) Step chart
+18) Spatial chart
 
 # Used Methods:
-1) Python Programming language.
-2) R programming language.
+1) Python Programming language
+2) R programming language
 3) Tabelau
+
+# Libraries
+a) Python:
+  1) Pandas
+  2) Numpy
+  3) Matplotlib
+  4) Seaborn
+b) R:
+  1) GGplot
+  2) plotly
+  
 
