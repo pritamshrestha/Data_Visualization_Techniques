@@ -36,3 +36,8 @@ Data visualization is the pictorial representation of the data. It helps us to u
 5) Plotly
 6) GGplot
 
+# Environment
+1) Annaconda
+2) R Studio
+3) Jupyter Notebook
+
