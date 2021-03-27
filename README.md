@@ -2,7 +2,7 @@
 # Summary:
 Data visualization is the pictorial representation of the data. It helps us to understand the data structure and relationships between them. Several methods can be used to visualize the data, such as simple text, tables, heatmap, and graphs. However, I have implemented many methods that are listed below.
 
-<img src="image/image.png" width="200px" height="200px">
+<img src="image/image.png" width="400px" height="300px">
 
 1) Bar chart
 2) Stacked bar chart
