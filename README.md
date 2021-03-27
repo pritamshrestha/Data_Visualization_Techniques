@@ -1,7 +1,7 @@
 # Data_Visualization_Techniques
 # Summary:
 Data visualization is the pictorial representation of the data. It helps us to understand the data structure and relationships between them. Several methods can be used to visualize the data, such as simple text, tables, heatmap, and graphs. However, I have implemented many methods that are listed below.
-<img src="image/image.png"><img src="image/image.png">
+<img src="image/image.png">
 1) Bar chart
 2) Stacked bar chart
 3) Histohram                                            
